@@ -1,15 +1,13 @@
 <!-- 
 [![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Molly+Fraser))](https://git.io/typing-svg)
 -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Molly+Fraser" alt="Typing SVG" /></a>
 <picture>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Molly+Fraser" alt="Typing SVG" />
 </picture>
 
 Go enthusiast, Typescript user, Rust beginner
 
-[🌐 Website](https://mollyfraser.dev) · [📇 Contact](mailto:mollymaefraser@gmail.com) ·
+[🌐 Website](https://mollyfraser.dev) · [📇 Contact](mailto:mollymaefraser@gmail.com) 
 
 
 ### Tech stack
